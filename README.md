@@ -24,8 +24,6 @@
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 * **Tools & Deployment:** Streamlit, Git, GitHub, Docker, AWS (EC2, S3, IAM)
 
----
-
 
 ---
 
