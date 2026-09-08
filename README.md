@@ -4,7 +4,7 @@
 ### Machine Learning Engineer & Data Science Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Refaat_Asker-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-refaat-asker)
-[![Portfolio](https://ahmedasker1.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-green?style=flat&logo=safari)](https://ahmedasker1.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-ahmedrefaatasker@gmail.com-red?style=flat&logo=gmail)](mailto:ahmedrefaatasker@gmail.com)
 
 </div>
@@ -36,6 +36,7 @@
 ---
 
 ### 📫 Connect With Me
+* **Portfolio:** [ahmedasker1.github.io/Portfolio](https://ahmedasker1.github.io/Portfolio/)
 * **LinkedIn:** [Ahmed Refaat Asker](https://linkedin.com/in/ahmed-refaat-asker)
 * **WhatsApp:** [+20 100 011 6374](https://wa.me/201000116374)
 * **Email:** ahmedrefaatasker@gmail.com
