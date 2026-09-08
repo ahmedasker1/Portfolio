@@ -3,9 +3,9 @@
 # Hi there, I'm Ahmed Refaat Abd-Elmotelb Desoky 👋
 ### Machine Learning Engineer & Data Science Student
 
-<a href="https://linkedin.com/in/ahmed-refaat-asker" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Refaat_Asker-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://ahmedasker1.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Live_Site-green?style=flat&logo=safari" alt="Portfolio"/></a>
-<a href="mailto:ahmedrefaatasker@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedrefaatasker@gmail.com-red?style=flat&logo=gmail" alt="Email"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Refaat_Asker-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-refaat-asker)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-green?style=flat&logo=safari)](https://ahmedasker1.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-ahmedrefaatasker@gmail.com-red?style=flat&logo=gmail)](mailto:ahmedrefaatasker@gmail.com)
 
 </div>
 
@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Connect With Me
-* **Portfolio:** <a href="https://ahmedasker1.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">ahmedasker1.github.io/Portfolio</a>
-* **LinkedIn:** <a href="https://linkedin.com/in/ahmed-refaat-asker" target="_blank" rel="noopener noreferrer">Ahmed Refaat Asker</a>
-* **WhatsApp:** <a href="https://wa.me/201000116374" target="_blank" rel="noopener noreferrer">+20 100 011 6374</a>
-* **Email:** [ahmedrefaatasker@gmail.com](mailto:ahmedrefaatasker@gmail.com)
+* **Portfolio:** [ahmedasker1.github.io/Portfolio](https://ahmedasker1.github.io/Portfolio/)
+* **LinkedIn:** [Ahmed Refaat Asker](https://linkedin.com/in/ahmed-refaat-asker)
+* **WhatsApp:** [+20 100 011 6374](https://wa.me/201000116374)
+* **Email:** ahmedrefaatasker@gmail.com
